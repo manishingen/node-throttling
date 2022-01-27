@@ -1,5 +1,5 @@
 #pre-requisites
-node_version = 16.3
+node_version >= 16.3
 npm
 
 #install all dependencies
